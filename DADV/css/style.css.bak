@@ -1,0 +1,61 @@
+*{margin:0;padding:0;}
+body{font:12px/1.6 arial;}
+#page{width:100%;}
+
+
+
+#bg {
+  /* The image used */
+  background-color: red;
+  background-image: url("C:\xampp\htdocs\election\Election Commission\images\bgimage.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* Header Start */
+#logo{float:left;}
+#logo img{height: 120px; width:120px; margin-top:15px;}
+#logo h1{font-size:50px; font-weight:bold; text-decoration:none; float:right; margin-top:25px; padding:10px;}  
+.clear{clear:both;}
+/* Carousel Start */
+#slider{position:relative; width:100%;}
+/*Carousel End */
+.clear{clear:both;}
+
+/*Scroll Text*/
+#scroll{ font-size:25px; color:cyan; }
+
+
+/*Content*/
+
+div.gallery {
+ margin: 7.5px;
+ border: 1px solid #ccc;
+ float: left;
+ width: 320px;
+ 
+}
+
+div.gallery:hover {
+ border: 1px solid #777;
+}
+ 
+div.gallery img {
+ width: 100%;
+ height: auto;
+}
+
+div.desc {
+ padding: 15px;
+ text-align: center;
+}
+.clear{clear:both;}
+#footer{background:grey; margin-top:10px; height:30px; }
+#footer p{color:#000; font-size:18px; font-weight:bold;}

@@ -1,0 +1,41 @@
+,Const.No.,Constituency,Loser,Loser_Party,Margin,Previous_Margin,Previous_Winner,Previous_Winner_Party,State,Winner,Winner_Party
+0,10,Aizawl  North - i,LALRINGLIANA,Mizo National Front,1165,657,R. ROMAWIA,Indian National Congress,Mizoram,VANLALHLANA,Independent
+1,13,Aizawl East - i,K SAPDANGA,Independent,2504,422,R. LALRINAWMA,Indian National Congress,Mizoram,ZORAMTHANGA,Mizo National Front
+2,14,Aizawl East ii,B LALCHHANZOVA,Independent,1492,177,LALSAWTA,Indian National Congress,Mizoram,ROBERT ROMAWIA ROYTE,Mizo National Front
+3,11,Aizawl North - ii,LALTLANZOVA KHIANGTE,Mizo National Front,1801,311,LALTHANLIANA,Mizoram People's Conference,Mizoram,VANLALTHLANA,Independent
+4,12,Aizawl North-iii,LAL THANZARA,Indian National Congress,434,750,LAL THANZARA,Indian National Congress,Mizoram,C LALMUANPUIA,Mizo National Front
+5,18,Aizawl South i,K. LIANTLINGA,Mizo National Front,1049,1296,R. VANLALVENA,Indian National Congress,Mizoram,C. LALSAWIVUNGA,Independent
+6,19,Aizawl South ii,DENGHMINGTHANGA,Mizo National Front,179,1043,LT. COL. ZOSANGZUALA,Indian National Congress,Mizoram,LALCHHUANTHANGA,Independent
+7,20,Aizawl South-iii,K.S THANGA,Indian National Congress,2088,667,K. S. THANGA,Indian National Congress,Mizoram,F. LALNUNMAWIA,Mizo National Front
+8,15,Aizawl West i,K. SANGTHUAMA,Mizo National Front,1060,462,K SANGTHUAMA,Mizo National Front,Mizoram,LALDUHOMA,Independent
+9,16,Aizawl West ii,DR. LALMALSAWMA NGHAKA,Indian National Congress,2720,630,LALRUATKIMA,Mizo National Front,Mizoram,LALRUATKIMA,Mizo National Front
+10,17,Aizawl West iii,VANLALZAWMA,Mizo National Front,1026,978,VANLALZAWMA,Mizo National Front,Mizoram,V.L. ZAITHANZAMA,Independent
+11,8,Chalfilh,F. RUALHLEIA,Independent,1007,3728,DR. NGURDINGLIANA,Indian National Congress,Mizoram,LALRINLIANA SAILO,Mizo National Front
+12,23,Champhai North,T.T. ZOTHANSANGA,Indian National Congress,1093,1470,T.T. ZOTHANSANGA,Indian National Congress,Mizoram,DR ZR.THIAMSANGA,Mizo National Front
+13,24,Champhai South,LAL THANHAWLA,Indian National Congress,1049,1650,JH.ROTHUAMA,Indian National Congress,Mizoram,T.J LALNUNTLUANGA,Mizo National Front
+14,2,Dampa,LALROBIAKA,Indian National Congress,1657,1161,LALROBIAKA,Indian National Congress,Mizoram,LALRINTLUANGA SAILO,Mizo National Front
+15,25,East tuipui,C.LALTANPUIA,Independent,587,798,T. SANGKUNGA,Indian National Congress,Mizoram,RAMTHANMAWIA,Mizo National Front
+16,1,Hachhek,LALRINENGA SAILO,Mizo National Front,366,2333,LALRINMAWIA RALTE,Indian National Congress,Mizoram,LALRINDIKA RALTE,Indian National Congress
+17,28,Hrangturzo,VANLALAWMPUII CHAWNGTHU,Indian National Congress,757,1628,LAL THANHAWLA,Indian National Congress,Mizoram,LALCHAMLIANA,Mizo National Front
+18,5,Kolasib,LALFAMKIMA,Independent,279,595,P.C. ZORAM SANGLIANA,Indian National Congress,Mizoram,K. LALRINLIANA,Mizo National Front
+19,38,Lawngtlai East,H. ZOTHANGLIANA,Indian National Congress,944,273,H.ZOTHANGLIANA,Indian National Congress,Mizoram,H. BIAKZAUA,Mizo National Front
+20,37,Lawngtlai West,C. RAMHLUNA,Mizo National Front,795,1535,C.NGUNLIANCHUNGA,Indian National Congress,Mizoram,C. NGUNLIANCHUNGA,Indian National Congress
+21,21,Lengteng,H.ROHLUNA,Indian National Congress,1772,167,H .ROHLUNA,Indian National Congress,Mizoram,L.THANGMAWIA,Mizo National Front
+22,31,Lunglei East,LALRINPUII,Independent,72,1611,JOSEPH LALHIMPUIA,Indian National Congress,Mizoram,LAWMAWMA TOCHHAWNG,Mizo National Front
+23,30,Lunglei North,V MALSAWMTLUANGA,Independent,395,870,P.C. LALTHANLIANA,Indian National Congress,Mizoram,VANLALTANPUIA,Mizo National Front
+24,33,Lunglei South,R LALNUNTHARA,Indian National Congress,2441,450,S. LALDINGLIANA,Indian National Congress,Mizoram,K PACHHUNGA,Mizo National Front
+25,32,Lunglei West,CHALROSANGA RALTE,Indian National Congress,77,94,CHALROSANGA RALTE,Indian National Congress,Mizoram,C.LALRINSANGA,Mizo National Front
+26,3,Mamit,JOHN ROTLUANGLIANA,Indian National Congress,407,2490,JOHN ROTLUANGLIANA,Indian National Congress,Mizoram,H. LALZIRLIANA,Mizo National Front
+27,40,Palak,M. CHAKHU,Mizo National Front,844,1823,HIPHEI,Indian National Congress,Mizoram,K.T. ROKHAW,Indian National Congress
+28,26,Serchhip,LAL THANHAWLA,Indian National Congress,410,734,LAL THANHAWLA,Indian National Congress,Mizoram,LALDUHOMA,Independent
+29,6,Serlui,LALHMACHHUANA,Indian National Congress,927,1406,K. LALRINTHANGA,Indian National Congress,Mizoram,LALRINSANGA RALTE,Mizo National Front
+30,39,Siaha,S. HIATO,Indian National Congress,2468,222,DR. K. BEICHHUA,Mizo National Front,Mizoram,DR. K. BEICHHUA,Mizo National Front
+31,29,South tuipui,JOHN SIAMKUNGA,Indian National Congress,1469,1568,JOHN SIAMKUNGA,Indian National Congress,Mizoram,DR R LALTHANGLIANA,Mizo National Front
+32,9,Tawi,R. LALTHATLUANGA,Independent,184,947,R LALZIRLIANA,Indian National Congress,Mizoram,R.LALZIRLIANA,Mizo National Front
+33,34,Thorang,R.ROHMINGLIANA,Mizo National Front,1240,2504,ZODINTLUANGA,Indian National Congress,Mizoram,ZODINTLUANGA RALTE,Indian National Congress
+34,22,Tuichang,W. CHHUANAWMA,Independent,739,2985,LALRINLIANA SAILO,Indian National Congress,Mizoram,TAWNLUIA,Mizo National Front
+35,36,Tuichawng,RASIK MOHAN CHAKMA,Mizo National Front,1594,8726,BUDDHA DHAN CHAKMA,Indian National Congress,Mizoram,BUDDHA DHAN CHAKMA,Bharatiya Janata Party
+36,27,Tuikum,SANGZELA TLAU,Indian National Congress,1397,14,ER. LALRINAWMA,Mizo National Front,Mizoram,ER. LALRINAWMA,Mizo National Front
+37,4,Tuirial,SAILOTHANGA SAILO,Mizo National Front,204,239,HMINGDAILOVA KHIANGTE,Indian National Congress,Mizoram,ANDREW H. THANGLIANA,Independent
+38,7,Tuivawl,R. L. PIANMAWIA,Indian National Congress,3,1371,R. L. PIANMAWIA,Indian National Congress,Mizoram,LALCHHANDAMA RALTE,Mizo National Front
+39,35,West tuipui,KINA RANJAN CHAKMA,Bharatiya Janata Party,2385,3334,NIHAR KANTI CHAKMA,Indian National Congress,Mizoram,NIHAR KANTI CHAKMA,Indian National Congress

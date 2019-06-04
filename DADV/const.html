@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+<head>
+<link rel="icon" href="images/fav.png"/>
+<title>Election Commission Of India</title>
+<link href="css/style.css" rel="stylesheet"/>
+
+<!-- Carousel Links Start -->
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<!-- Carousel Links End -->
+
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="javascript/const.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+
+  
+<style>
+.navbar ul li a:hover{background:#958E8D; color:#000;}
+</style>
+  
+</head>
+
+<body>
+<div id="header">
+	<div id="logo">
+	<a href="index.html"><img src="images/logo.png" alt="logo"></a>
+	<a href="index.html"><h1>Election Commission Of India</h1></a>
+	</div>
+</div>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light" style="width:100%">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent" style="background:#202020;">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="index.html" style="color:#fff;font-size:25px; padding-left:25px;">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="party.html" style="color:#fff;font-size:25px;padding-left:25px;">Partywise</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="const.html" style="color:#fff;font-size:25px;padding-left:25px;">Constituencywise</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="trend.html" style="color:#fff;font-size:25px;padding-left:25px;"> Trends</a>
+      </li>
+	  
+  </div>
+</nav>
+
+ <div id="bg">
+<div id="scroll">
+<marquee behavior="scroll" align="middle" direction="left" scrollamount="4" onmouseover="this.stop()" onmouseout="this.start()" style="color:#99FFFF;"><br /><br />    <a href="https://nvsp.in/">APPLY VOTERID</a>  <a href="http://servicevoter.nic.in/">SERVICE VOTERSPORTAL</a>  <a href="https://eci.gov.in/files/file/9997-final-voter-turnout-of-phase-1-to-phase-7-of-the-lok-sabha-elections-2019/">Final Voter turnout of Phase 1 to Phase 7 of the Lok Sabha Elections 2019</a><br /><br />  </marquee>
+</div>
+<center>
+<div id="state">
+		<h2>Please Select the State and Constituency</h2>
+				&nbsp;
+				<br><br>
+			  
+				   <select name="dropdown" id="selectS" style="width: 250px; height: 30px; color:#EDBB99; font-weight:bold; background:#873600;" onchange="updatestate(this)">
+		
+					   
+		
+				</select>
+				   <select name="dropdown1" id="selectC" style="width: 250px; height: 30px; color:#EDBB99; font-weight:bold; background:#873600;"  onchange="updateconst(this)" >
+				   
+		
+				</select>
+				   <br>
+				   <br>
+				   <div id="myDiv" style="width:700px;height:700px;"></div>
+		</div>
+</center>
+
+
+<h2>FILE INFORMATION</h2>
+<h3>
+<ul style="list-style-type:none;">
+  <li>Views     :108,112</li>
+  <li>Downloads :34,552</li>
+  <li>Updated   :Monday at 09:43</li>
+  
+  <li>File Size :60 kB</li>
+
+</ul>  
+</h3>
+
+<div class="clear"></div>
+
+<div id="footer">
+	<center><p>©Copyright Election Commission of India</p></center>
+</div>
+
+</div>
+
+</body>
+</html>
+
+
+
+
+
+</body>
+</html>

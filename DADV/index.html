@@ -1,0 +1,165 @@
+<!doctype html>
+<html>
+<head>
+<link rel="icon" href="images/fav.png"/>
+<title>Election Commission of India</title>
+<link href="css/style.css" rel="stylesheet"/>
+
+<!-- Carousel Links Start -->
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<!-- Carousel Links End -->
+
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+  
+<style>
+.navbar ul li a:hover{background:#958E8D; color:#000;}
+
+* {box-sizing: border-box}
+.mySlides1, .mySlides2 {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+ 
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a grey background color */
+.prev:hover, .next:hover {
+  background-color: #f1f1f1;
+  color: black;
+}
+</style>
+  
+</head>
+
+<body>
+<div id="header">
+	<div id="logo" style="margin-left: 250px">
+	<a href="index.html"><img src="images/logo.png" alt="logo"></a>
+	<a href="index.html"><h1>Election Commission of India</h1></a>
+	</div>
+</div>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light navbar-custom" style="width:100%">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent" style="background:#202020;">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="index.html" style="color:#fff;font-size:25px; padding-left:25px;">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="party.html" style="color:#fff;font-size:25px;padding-left:25px;">Partywise</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="const.html" style="color:#fff;font-size:25px;padding-left:25px;">Constituencywise</a>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="trend.html" style="color:#fff;font-size:25px;padding-left:25px;">Trends</a>
+      </li>
+  </div>
+</nav>
+
+<!-- <div class="slideshow-container">
+		<div class="mySlides1">
+				<img src="images/Capture3.png" style="width:98.5%; margin-left:10px; margin-right:10px;">
+			</div>
+
+  <div class="mySlides1">
+    <img src="images/Capture2.png" style="width:98.5%; margin-left:10px; margin-right:10px;">
+  </div>
+  
+ 
+
+  <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
+</div> -->
+
+<script>
+var slideIndex = [1,1];
+var slideId = ["mySlides1"]
+showSlides(1, 0);
+showSlides(1, 1);
+
+function plusSlides(n, no) {
+  showSlides(slideIndex[no] += n, no);
+}
+
+function showSlides(n, no) {
+  var i;
+  var x = document.getElementsByClassName(slideId[no]);
+  if (n > x.length) {slideIndex[no] = 1}    
+  if (n < 1) {slideIndex[no] = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex[no]-1].style.display = "block";  
+}
+</script>	
+<div class="clear"></div>
+<div id="Content">
+<center><h1 style="font-size:30px;">Elected bodies of India</h1></center>
+<center><img src="images/line1.jpg" alt="bottom img" /></center>
+	<div class="gallery">
+	 
+	   <img src="images/c1.jpg" alt="5Terre">
+	
+	 <div class="desc"><b style="font-size:15px;">Ram Nath Kovind(President)</b></div>
+	</div>
+
+	<div class="gallery">
+	   <img src="images/c2.jpg" alt="Forest" >
+	 <div class="desc"><b style="font-size:15px;">Venkaiah Naidu(Vice president)</b></div>
+	</div>
+
+	<div class="gallery">
+	   <img src="images/c5.jpg" alt="Northern Lights" >
+	 <div class="desc"><b style="font-size:15px;">Narendra Modi(Prime Minister)</b></div>
+	</div>
+</div>
+<div class="clear"></div>
+
+<div id="footer">
+  <center><p>©Copyright Election Commission of India</p></center>
+</div>
+
+</body>
+</html>
